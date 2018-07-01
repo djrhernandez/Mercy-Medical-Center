@@ -1,0 +1,35 @@
+.modal-header, h4, .close {
+	color:				white !important;
+	font-size:			36px;
+	text-align:			center;
+	background-color: 	#b30000;
+}
+
+.modal-header {
+	
+}
+
+#loginhead {
+	
+}
+
+.modal-nav {
+	
+}
+
+.modal-body {	
+}
+
+.modal-body btn {
+}
+
+.modal-footer {
+	background-color:	#f9f9f9;
+}
+
+.modal-footer .btn {	
+}
+
+.modal-footer p {
+	text-align: right;
+}
